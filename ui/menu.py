@@ -1,3 +1,4 @@
+import math
 import pygame
 from settings import COLORS, SCREEN_WIDTH, SCREEN_HEIGHT
 from ui.buttons import Button, ToggleButton
